@@ -1,0 +1,19 @@
+body{
+    background:#f8f9fa;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card img{
+    object-fit:cover;
+}
+
+footer{
+    margin-top:40px;
+}
